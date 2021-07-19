@@ -8,18 +8,18 @@
     The overarching objectives and related deliverables for this analysis are the followings:
 
 - Analyse the raw data of the balots inorder to generate the below outputs:
-    1. Calculate the total number of votes
-    2. Complete list of andidates who received votes
-    3. Total number of votes each candidate received
-    4. Percentage of each candidate won
-    5. Winner of the election based on popular votes
-    6. Voter turnout for each county
-    7. Percentage of votes from each county out of the total count
-    8. County with the highest turnout
+1. Calculate the total number of votes
+2. Complete list of andidates who received votes
+3. Total number of votes each candidate received
+4. Percentage of each candidate won
+5. Winner of the election based on popular votes
+6. Voter turnout for each county
+7. Percentage of votes from each county out of the total count
+8. County with the highest turnout
 
 - Automate the analysis with Python script that generates following deliverables:
-    1. Election Results Printed to the Command Line
-    2. Election Results Saved to a Text File
+1. Election Results Printed to the Command Line
+2. Election Results Saved to a Text File
 
 **Resources:**
 1. Data Source: election_results.csv
